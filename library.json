@@ -1,5 +1,6 @@
 {
   "name": "Adafruit-CC3000",
+  "version": "1.0.3",
   "keywords": "wifi, wi-fi, http, web, server, json, rest, spi",
   "description": "Library code for Adafruit's CC3000 Wi-Fi/WiFi breakouts",
   "repository":
